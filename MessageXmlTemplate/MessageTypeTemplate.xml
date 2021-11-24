@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ApiSubmission CustID="">
+  <Records TableName="Recipient_Transactional" FormId="" SubmissionSequence="2">
+    <Record>
+      <Field FieldName="guid"></Field>
+      <Field FieldName="email"></Field>
+      <Field FieldName="customer_id"></Field>
+      <Field FieldName="sys_src"></Field>
+      <Field FieldName="customer_no"></Field>
+      <Field FieldName="brand"></Field>
+      <Field FieldName="category_url"></Field>
+      <Field FieldName="credit_amount"> </Field>
+      <Field FieldName="division"></Field>
+      <Field FieldName="ereceipt"></Field>
+      <Field FieldName="name_first"></Field>
+      <Field FieldName="generic1"></Field>
+      <Field FieldName="name_last"></Field>
+      <Field FieldName="order_number"></Field>
+      <Field FieldName="payment_method"></Field>
+      <Field FieldName="productid"></Field>
+      <Field FieldName="referral_note"></Field>
+      <Field FieldName="referrer_name"></Field>
+      <Field FieldName="register_number"></Field>
+      <Field FieldName="sender_email"></Field>
+      <Field FieldName="shipaddress1"></Field>
+      <Field FieldName="shipaddress2"></Field>
+      <Field FieldName="shipcity"></Field>
+      <Field FieldName="shipfirstname"></Field>
+      <Field FieldName="shiplastname"></Field>
+      <Field FieldName="shippingmethod"></Field>
+      <Field FieldName="shippingtotal"></Field>
+      <Field FieldName="shipstate"></Field>
+      <Field FieldName="shipzip"></Field>
+      <Field FieldName="storelocation"></Field>
+      <Field FieldName="storenumber"></Field>
+      <Field FieldName="storephone"></Field>
+      <Field FieldName="style"></Field>
+      <Field FieldName="styleurl"></Field>
+      <Field FieldName="subject"></Field>
+      <Field FieldName="subtotal"></Field>
+      <Field FieldName="taxtotal"></Field>
+      <Field FieldName="total"></Field>
+      <Field FieldName="totaldiscount"></Field>
+      <Field FieldName="totalrewards"></Field>
+      <Field FieldName="trackingnumber"></Field>
+      <Field FieldName="trackingurl"></Field>
+      <Field FieldName="transdate"></Field>
+      <Field FieldName="transnumber"></Field>
+      <Field FieldName="partnerid"></Field>
+    </Record>
+  </Records>
+  <Records TableName="order_detail_transactional" FormId="" SubmissionSequence="1">
+    <Record>
+      <Field FieldName="guid"></Field>
+      <Field FieldName="order_number"></Field>
+      <Field FieldName="brand"></Field>
+      <Field FieldName="color"></Field>
+      <Field FieldName="discount"></Field>
+      <Field FieldName="price"></Field>
+      <Field FieldName="productid"></Field>
+      <Field FieldName="producturl"></Field>
+      <Field FieldName="productvariantid"></Field>
+      <Field FieldName="quantity"></Field>
+      <Field FieldName="size"></Field>
+      <Field FieldName="style"></Field>
+      <Field FieldName="thumbnailurl"></Field>
+      <Field FieldName="totalcost"></Field>
+      <Field FieldName="partnerid"></Field>
+    </Record>
+  </Records>
+</ApiSubmission> 
